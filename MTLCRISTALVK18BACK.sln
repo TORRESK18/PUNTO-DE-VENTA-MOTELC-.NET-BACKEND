@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTLCRISTALVK18BACK", "MTLCRISTALVK18BACK.csproj", "{07E3451B-5A41-46DF-9ADD-19972C27EABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E3451B-5A41-46DF-9ADD-19972C27EABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E3451B-5A41-46DF-9ADD-19972C27EABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E3451B-5A41-46DF-9ADD-19972C27EABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E3451B-5A41-46DF-9ADD-19972C27EABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C509B69F-CFA9-4E80-9FC2-B2283E28F42E}
+	EndGlobalSection
+EndGlobal
